@@ -1,9 +1,14 @@
-### Hello there 🧔
 
+### Hello there 🧔
+ 
+ 
 <div align="center">
-  <a href="https://github.com/Feddroid">
+  <a href="https://github.com/Feddroid"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feddroid&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&orgs=codeableorg,Feddroid,icetart-group" alt="Feddroid's github stats"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Feddroid&layout=compact&langs_count=7&theme=gruvbox"/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Feddroid&theme=dark&background=000000)](https://git.io/streak-stats)
+
 </div>
   
 ##
