@@ -18,6 +18,12 @@
     <a href="https://www.linkedin.com/in/alfredo-arroyo-d" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
+ <div align="center"> 
+  <a href="https://www.codewars.com/users/Feddroid">
+   <img src="https://www.codewars.com/users/Feddroid/badges/micro"></br>
+  </a>
+</div>
+
 <div align="center"> 
   <img src="https://komarev.com/ghpvc/?username=Feddroid&style=flat-square&color=blue" alt=""/>
 </div>
