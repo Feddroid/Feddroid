@@ -1,5 +1,5 @@
 
-### Hello there! 🧔
+### Hello there 🧔
  
  
 <div align="center">
