@@ -1,7 +1,7 @@
+<p align="center" width="300">
+ <h3 align="center">¡Hola 👋! Soy Alfredo 🧔</h3>
+</p>
 
-### ¡Hola! Soy Alfredo 🧔
- 
- 
 <div align="center">
   <a href="https://github.com/Feddroid"> 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Feddroid&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true&orgs=codeableorg,Feddroid,icetart-group" alt="Feddroid's github stats"/>
