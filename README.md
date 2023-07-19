@@ -2,7 +2,7 @@
  <h3 align="center">¡Hola mundo👋! Soy Alfredo 🧔</h3>
 </p>
 
-<p align="center"><strong>Full-Stack Web Developer</strong></p>
+<p align="center"><strong>Full-Stack Web Developer 💻</strong></p>
 
 <div align="center">
   <a href="https://github.com/Feddroid"> 
