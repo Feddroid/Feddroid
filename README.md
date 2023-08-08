@@ -1,5 +1,5 @@
 <p align="center" width="300">
- <h3 align="center">¡Hola mundo 🌎! Soy Alfredo 🧔</h3>
+ <h3 align="center">¡Hola 🌎! Soy Alfredo 🧔</h3>
 </p>
 
 <p align="center"><strong>Full-Stack Web Developer 💻</strong></p>
